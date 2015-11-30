@@ -1,0 +1,2 @@
+The org.infinispan.config.ConfigurationException class is deprecated since infinispan  5.3.0.Final.
+But is is still used in org.picketlink.idm.impl.tree.IDMTreeCacheImpl class.
